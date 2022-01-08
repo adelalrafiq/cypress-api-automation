@@ -1,0 +1,14 @@
+{
+  "name": "cypress-api-training",
+  "version": "1.0.0",
+  "description": "this is cypress api practice",
+  "main": "index.js",
+  "author": "Adel Al-Rafiq",
+  "scripts": {
+    "test": "cypress test"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "7.7.0"
+  }
+}
